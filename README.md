@@ -1,2 +1,2 @@
 # Unity-Game-Endless-Runner-2D
-Game Endless Runner 2D Make Alone.
+Game Endless Runner 2D.
