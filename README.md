@@ -1,2 +1,2 @@
-# Unity-Game-Endless-Runner-2D
-Game Endless Runner 2D.
+# Unity-Game2D-Endless-Runner
+Game 2D Endless Runner.
